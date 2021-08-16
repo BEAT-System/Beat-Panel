@@ -1,0 +1,34 @@
+{
+  "name": "Beat2020Panel",
+  "keywords": "lcd, liquidcrystal",
+  "description": "Arduino Library for displaying and changign data",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.imn.htwk-leipzig.de/geser/beatmungsgeraete"
+  },
+  "authors": [
+    {
+      "name": "Andreas Blum",
+      "email": "andreas.blum@htwk-leipzig.de "
+    },
+    {
+      "name": "Raphael Al Diban",
+      "email": "raphael.al_diban@htwk-leipzig.de",
+      "maintainer": true
+    },
+    {
+      "name": "Willi Zschiebsch",
+      "email": "willi.w.zschiebsch@web.de"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "VentiData",
+      "authors": "Willi Zschiebsch",
+      "frameworks": "arduino"
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
